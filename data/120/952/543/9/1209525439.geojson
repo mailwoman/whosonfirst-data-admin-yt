@@ -38,7 +38,7 @@
         "gn:id":921766
     },
     "wof:country":"YT",
-    "wof:geomhash":"b5d5ff52a6881ed37ff9e9bfa6850d06",
+    "wof:geomhash":"89727eb1c15c85b6045cb9ecc76dbb43",
     "wof:hierarchy":[
         {
             "locality_id":1209525439,
@@ -61,5 +61,5 @@
     45.16667,
     -13.0
 ],
-  "geometry": {"coordinates":[45.16667,-13.0],"type":"Point"}
+  "geometry": {"coordinates":[45.16667,-13],"type":"Point"}
 }

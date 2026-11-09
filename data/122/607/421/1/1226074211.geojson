@@ -45,7 +45,7 @@
         "wk:page":"Labattoir"
     },
     "wof:country":"YT",
-    "wof:geomhash":"d0a34de52e5ec66194889c987f3133d7",
+    "wof:geomhash":"1523d8505da66a690356ca314700d8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     45.28234000000001,
     -12.77698
 ],
-  "geometry": {"coordinates":[45.28234000000001,-12.77698],"type":"Point"}
+  "geometry": {"coordinates":[45.28234,-12.77698],"type":"Point"}
 }

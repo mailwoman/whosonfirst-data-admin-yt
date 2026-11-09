@@ -48,7 +48,7 @@
         "gn:id":1090425
     },
     "wof:country":"YT",
-    "wof:geomhash":"22e854d17bcae088b89db8d564774d50",
+    "wof:geomhash":"caeebab8a954590f600b11c24bcb1175",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     45.17449000000001,
     -12.96232
 ],
-  "geometry": {"coordinates":[45.17449000000001,-12.96232],"type":"Point"}
+  "geometry": {"coordinates":[45.17449,-12.96232],"type":"Point"}
 }

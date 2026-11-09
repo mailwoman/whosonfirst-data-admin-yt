@@ -40,7 +40,7 @@
         "wk:page":"Hamouro"
     },
     "wof:country":"YT",
-    "wof:geomhash":"ec207ec4ce57d5fae7fa2b43e7542e65",
+    "wof:geomhash":"c786ae29e1ed63069c9609ab71240beb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,5 +65,5 @@
     45.21494000000001,
     -12.8813
 ],
-  "geometry": {"coordinates":[45.21494000000001,-12.8813],"type":"Point"}
+  "geometry": {"coordinates":[45.21494,-12.8813],"type":"Point"}
 }
